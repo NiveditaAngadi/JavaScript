@@ -1,0 +1,29 @@
+Intoduction
+
+1. What is JavaScript?
+JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. 
+
+JS is prototype-based, multi-paradigm, single threaded, dynamic language, supporting object-orinetd, 
+imperative and declarative (e.g. functional programming) styles. 
+
+2. What is Prototype-based programming?
+Prototype-based programming is a style of object-oriented programming in which 
+classes are not explicitly defined, 
+but rather derived by adding properties and methods to an instance of another class or,
+less frequently, adding them to an empty object.
+In simple words: this type of style allows the creation of an object without first defining its class.
+
+Prototype-based programming uses the process generalized objects, 
+which can then be cloned and extended. Using fruit as an example, a "fruit" object would represent the properties 
+and functionality of fruit in general.
+A "banana" object would be cloned from the "fruit" object and general properties specific to bananas would be appended. 
+Each individual "banana" object would be cloned from the generic "banana" object.
+Compare to the class-based paradigm, where a "fruit" class would be extended by a "banana" class.
+
+3. What are the dynamic capabilities?
+Javascript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, 
+dynamic script creation(via eval), object introspection(via for...in or object utilities), and source-code recovery(JavaScript functions
+store their source text and can be retrieved through toString()). 
+
+4. Is JavaScript and Java are same?
+JavaScript is not "Interpreted Java". 
