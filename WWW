@@ -1,0 +1,22 @@
+1. What is WWW?
+The world wide web(WWW), W3, or the web 
+Is a system of interconnected public webpages accessible through the internet. 
+The Web is not the same as the internet, the web is one of the applications built on top of the internet. 
+
+Tim Berners-Lee proposed the architecture of what became known as the World Wide Web. He created the first web server, web browser, and webpage on his computer at the CERN physics research lab in 1990. 
+
+2. What are the components of WWW?
+ 1. The HTTP protocol governs data transfer between a server and a client. 
+ 2. To access a Web component, 
+  a client supplies a unique universal identifier, called a URL (uniform resource locator) or URI (uniform resource identifier) 
+  (formally called Universal Document Identifier (UDI)).
+ 3. HTML (Hypertext markup language) is the most common format for publishing web documents. 
+Linking, or connecting resources through hyperlinks, is a defining concept of the Web, 
+aiding its identity as a collection of connected documents.
+
+3. What is HTML?
+HTML is the technology that defines the content and structure of any website. Written properly, it should also define 
+the semantics of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and making '
+use of the built-in features browsers provide for content for work optimally. 
+This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
+
